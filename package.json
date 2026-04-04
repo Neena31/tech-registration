@@ -2,10 +2,10 @@
   "name": "techx-summit-registration",
   "version": "1.0.0",
   "description": "TechX Summit 2026 event registration",
-  "main": "server.js",
   "scripts": {
     "start": "node server.js",
-    "dev": "nodemon server.js"
+    "dev": "nodemon server.js",
+    "build": "echo 'Build complete'"
   },
   "engines": {
     "node": ">=18"
